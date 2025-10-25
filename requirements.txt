@@ -1,0 +1,10 @@
+streamlit>=1.36
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.4
+tqdm>=4.64
+
+# Optional for semantic MiniLM similarity and MiniLM-based supervised mode:
+# sentence-transformers>=2.2.2
+# transformers>=4.44
+# torch>=2.3
